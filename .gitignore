@@ -1,0 +1,24 @@
+# Fichiers et dossiers générés par l'environnement de développement
+/node_modules
+/.vscode
+/.idea
+
+# Fichiers de build
+/build
+/dist
+
+# Fichiers de logs
+/logs
+
+# Fichiers de configuration spécifiques à l'environnement
+.env
+.env.local
+.env.*.local
+
+# Fichiers de sauvegarde
+*.bak
+*.swp
+*~
+
+# Fichiers de cache
+.cache
